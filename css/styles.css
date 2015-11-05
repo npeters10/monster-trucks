@@ -1,0 +1,43 @@
+main {
+    background: lightgrey;
+}
+
+/* Fonts */
+h1, h2 {
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+p,a,blockquote {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+/* Links */
+a, a:visited {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+a:hover {
+    border-bottom: thin solid #000;
+}
+
+/* Header */
+li {
+    list-style: none;
+    display: inline-block;
+    float: right;
+    padding: 0 5em 5em ;
+}
+
+/* Images */
+img {
+    max-width: 75%;
+    
+}
+
+/* Footer */
+blockquote {
+   align-content: center;
+    
+}
